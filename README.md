@@ -1,1 +1,2 @@
-# GinHub
+# GinHub 🍸
+GinHub is a software that allows users to obtain information about cocktail recipes. If the name of the drink is not present, the user will be able to add a new recipes, if she/he wants to. The recipes can be explored or filtered by name, ingredients and preparation step by step. A further functionality makes possible for the final user to insert the ingredients available, to be returned the corresponding recipes (i.e. if the user inserts Gin and Tonic Water the software will suggest ‘gin tonic’ recipe).
